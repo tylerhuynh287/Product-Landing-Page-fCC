@@ -27,4 +27,6 @@ A fully responsive and interactive product landing page created as part of the f
 ## How to View
 1. Clone this repository:
    ```bash
-   git clone git@github.com:tylerhuynh287/Product-Landing-Page-fCC.git
+   git clone https://github.com/tylerhuynh287/Product-Landing-Page-fCC.git
+
+To be updated!
