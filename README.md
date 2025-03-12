@@ -1,5 +1,5 @@
 # Product Landing Page  
-A fully responsive and interactive product landing page created as part of a freeCodeCamp project. The page demonstrates key web development skills, including HTML5, CSS3, and responsive design principles.
+A fully responsive and interactive product landing page created as part of the freeCodeCamp Responsive Web Design Certification, Project 4. The page demonstrates key web development skills, including HTML5, CSS3, and responsive design principles.
 
 ## Features
 - **Dynamic Navigation**  
